@@ -20,8 +20,8 @@ import (
 	"go.mau.fi/util/dbutil"
 	"go.mau.fi/util/exslices"
 
-	"github.com/Bongbetic/whatsmeow/store"
-	"github.com/Bongbetic/whatsmeow/types"
+	"go.mau.fi/whatsmeow/store"
+	"go.mau.fi/whatsmeow/types"
 )
 
 type CachedLIDMap struct {

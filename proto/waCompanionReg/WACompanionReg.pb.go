@@ -1028,7 +1028,7 @@ const file_waCompanionReg_WACompanionReg_proto_rawDesc = "" +
 	"\x15isSyncdPureLidSession\x18\x02 \x01(\bR\x15isSyncdPureLidSession\x12F\n" +
 	"\x1eisSyncdSnapshotRecoveryEnabled\x18\x03 \x01(\bR\x1eisSyncdSnapshotRecoveryEnabled\x12:\n" +
 	"\x18isHsThumbnailSyncEnabled\x18\x04 \x01(\bR\x18isHsThumbnailSyncEnabled\x128\n" +
-	"\x17subscriptionSyncPayload\x18\x05 \x01(\fR\x17subscriptionSyncPayloadB*Z(github.com/Bongbetic/whatsmeow/proto/waCompanionReg"
+	"\x17subscriptionSyncPayload\x18\x05 \x01(\fR\x17subscriptionSyncPayloadB*Z(go.mau.fi/whatsmeow/proto/waCompanionReg"
 
 var (
 	file_waCompanionReg_WACompanionReg_proto_rawDescOnce sync.Once

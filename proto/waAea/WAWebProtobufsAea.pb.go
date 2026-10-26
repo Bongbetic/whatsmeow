@@ -135,7 +135,7 @@ const file_waAea_WAWebProtobufsAea_proto_rawDesc = "" +
 	"\vAccountType\x12\b\n" +
 	"\x04E2EE\x10\x00\x12\x0f\n" +
 	"\vHYBRID_E2EE\x10\x01\x12\f\n" +
-	"\bNON_E2EE\x10\x02B!Z\x1fgithub.com/Bongbetic/whatsmeow/proto/waAea"
+	"\bNON_E2EE\x10\x02B!Z\x1fgo.mau.fi/whatsmeow/proto/waAea"
 
 var (
 	file_waAea_WAWebProtobufsAea_proto_rawDescOnce sync.Once

@@ -9,9 +9,9 @@ package whatsmeow
 import (
 	"context"
 
-	waBinary "github.com/Bongbetic/whatsmeow/binary"
-	"github.com/Bongbetic/whatsmeow/types"
-	"github.com/Bongbetic/whatsmeow/types/events"
+	waBinary "go.mau.fi/whatsmeow/binary"
+	"go.mau.fi/whatsmeow/types"
+	"go.mau.fi/whatsmeow/types/events"
 )
 
 func (cli *Client) handleCallEvent(ctx context.Context, node *waBinary.Node) {

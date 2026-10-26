@@ -1,4 +1,4 @@
-module github.com/Bongbetic/whatsmeow
+module go.mau.fi/whatsmeow
 
 go 1.26.0
 

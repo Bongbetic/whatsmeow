@@ -245,7 +245,7 @@ const file_waArmadilloBackupCommon_WAArmadilloBackupCommon_proto_rawDesc = "" +
 	"\x0epayloadVersion\x18\x05 \x01(\x05R\x0epayloadVersion\x120\n" +
 	"\x13futureProofBehavior\x18\x06 \x01(\x05R\x13futureProofBehavior\x12$\n" +
 	"\rthreadTypeTag\x18\a \x01(\x05R\rthreadTypeTag\x12,\n" +
-	"\x11clientTimestampMS\x18\b \x01(\x03R\x11clientTimestampMSB3Z1github.com/Bongbetic/whatsmeow/proto/waArmadilloBackupCommon"
+	"\x11clientTimestampMS\x18\b \x01(\x03R\x11clientTimestampMSB3Z1go.mau.fi/whatsmeow/proto/waArmadilloBackupCommon"
 
 var (
 	file_waArmadilloBackupCommon_WAArmadilloBackupCommon_proto_rawDescOnce sync.Once

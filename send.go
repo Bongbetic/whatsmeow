@@ -30,12 +30,12 @@ import (
 	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
-	waBinary "github.com/Bongbetic/whatsmeow/binary"
-	"github.com/Bongbetic/whatsmeow/proto/waAICommon"
-	"github.com/Bongbetic/whatsmeow/proto/waCommon"
-	"github.com/Bongbetic/whatsmeow/proto/waE2E"
-	"github.com/Bongbetic/whatsmeow/types"
-	"github.com/Bongbetic/whatsmeow/types/events"
+	waBinary "go.mau.fi/whatsmeow/binary"
+	"go.mau.fi/whatsmeow/proto/waAICommon"
+	"go.mau.fi/whatsmeow/proto/waCommon"
+	"go.mau.fi/whatsmeow/proto/waE2E"
+	"go.mau.fi/whatsmeow/types"
+	"go.mau.fi/whatsmeow/types/events"
 )
 
 const WebMessageIDPrefix = "3EB0"

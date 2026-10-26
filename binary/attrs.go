@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Bongbetic/whatsmeow/types"
+	"go.mau.fi/whatsmeow/types"
 )
 
 // AttrUtility is a helper struct for reading multiple XML attributes and checking for errors afterwards.

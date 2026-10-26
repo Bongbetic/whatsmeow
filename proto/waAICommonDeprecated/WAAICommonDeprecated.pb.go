@@ -1599,7 +1599,7 @@ const file_waAICommonDeprecated_WAAICommonDeprecated_proto_rawDesc = "" +
 	"\x18AI_RICH_RESPONSE_DYNAMIC\x10\x06\x12\x18\n" +
 	"\x14AI_RICH_RESPONSE_MAP\x10\a\x12\x1a\n" +
 	"\x16AI_RICH_RESPONSE_LATEX\x10\b\x12\"\n" +
-	"\x1eAI_RICH_RESPONSE_CONTENT_ITEMS\x10\tB0Z.github.com/Bongbetic/whatsmeow/proto/waAICommonDeprecated"
+	"\x1eAI_RICH_RESPONSE_CONTENT_ITEMS\x10\tB0Z.go.mau.fi/whatsmeow/proto/waAICommonDeprecated"
 
 var (
 	file_waAICommonDeprecated_WAAICommonDeprecated_proto_rawDescOnce sync.Once

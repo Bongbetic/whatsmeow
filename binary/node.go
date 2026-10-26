@@ -11,7 +11,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Bongbetic/whatsmeow/types"
+	"go.mau.fi/whatsmeow/types"
 )
 
 // Attrs is a type alias for the attributes of an XML element (Node).

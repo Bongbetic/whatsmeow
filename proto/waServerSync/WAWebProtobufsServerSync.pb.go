@@ -955,7 +955,7 @@ const file_waServerSync_WAWebProtobufsServerSync_proto_rawDesc = "" +
 	"\x05index\x18\x01 \x01(\v2$.WAWebProtobufsServerSync.SyncdIndexR\x05index\x12:\n" +
 	"\x05value\x18\x02 \x01(\v2$.WAWebProtobufsServerSync.SyncdValueR\x05value\x12\"\n" +
 	"\fdirtyVersion\x18\x03 \x01(\x04R\fdirtyVersion\x12T\n" +
-	"\toperation\x18\x04 \x01(\x0e26.WAWebProtobufsServerSync.SyncdMutation.SyncdOperationR\toperationB(Z&github.com/Bongbetic/whatsmeow/proto/waServerSync"
+	"\toperation\x18\x04 \x01(\x0e26.WAWebProtobufsServerSync.SyncdMutation.SyncdOperationR\toperationB(Z&go.mau.fi/whatsmeow/proto/waServerSync"
 
 var (
 	file_waServerSync_WAWebProtobufsServerSync_proto_rawDescOnce sync.Once

@@ -11,7 +11,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha256"
 
-	"github.com/Bongbetic/whatsmeow/types"
+	"go.mau.fi/whatsmeow/types"
 )
 
 func shouldSendCsToken(jid types.JID) bool {

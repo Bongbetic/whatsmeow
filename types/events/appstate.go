@@ -9,9 +9,9 @@ package events
 import (
 	"time"
 
-	"github.com/Bongbetic/whatsmeow/appstate"
-	"github.com/Bongbetic/whatsmeow/proto/waSyncAction"
-	"github.com/Bongbetic/whatsmeow/types"
+	"go.mau.fi/whatsmeow/appstate"
+	"go.mau.fi/whatsmeow/proto/waSyncAction"
+	"go.mau.fi/whatsmeow/types"
 )
 
 // Contact is emitted when an entry in the user's contact list is modified from another device.

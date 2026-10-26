@@ -14,9 +14,9 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	waChatLockSettings "github.com/Bongbetic/whatsmeow/proto/waChatLockSettings"
-	waCommon "github.com/Bongbetic/whatsmeow/proto/waCommon"
-	waDeviceCapabilities "github.com/Bongbetic/whatsmeow/proto/waDeviceCapabilities"
+	waChatLockSettings "go.mau.fi/whatsmeow/proto/waChatLockSettings"
+	waCommon "go.mau.fi/whatsmeow/proto/waCommon"
+	waDeviceCapabilities "go.mau.fi/whatsmeow/proto/waDeviceCapabilities"
 )
 
 const (
@@ -10045,7 +10045,7 @@ const file_waSyncAction_WAWebProtobufSyncAction_proto_rawDesc = "" +
 	"PROCESSING\x10\x03\x12\n" +
 	"\n" +
 	"\x06FAILED\x10\x04\x12\b\n" +
-	"\x04SENT\x10\x05B(Z&github.com/Bongbetic/whatsmeow/proto/waSyncAction"
+	"\x04SENT\x10\x05B(Z&go.mau.fi/whatsmeow/proto/waSyncAction"
 
 var (
 	file_waSyncAction_WAWebProtobufSyncAction_proto_rawDescOnce sync.Once

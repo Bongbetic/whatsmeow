@@ -12,9 +12,9 @@ import (
 	"encoding/base64"
 	"sync"
 
-	"github.com/Bongbetic/whatsmeow/store"
-	"github.com/Bongbetic/whatsmeow/util/hkdfutil"
-	waLog "github.com/Bongbetic/whatsmeow/util/log"
+	"go.mau.fi/whatsmeow/store"
+	"go.mau.fi/whatsmeow/util/hkdfutil"
+	waLog "go.mau.fi/whatsmeow/util/log"
 )
 
 // WAPatchName represents a type of app state patch.

@@ -14,18 +14,18 @@ import (
 
 	"go.mau.fi/util/jsontime"
 
-	waBinary "github.com/Bongbetic/whatsmeow/binary"
-	armadillo "github.com/Bongbetic/whatsmeow/proto"
-	"github.com/Bongbetic/whatsmeow/proto/instamadilloTransportPayload"
-	"github.com/Bongbetic/whatsmeow/proto/waArmadilloApplication"
-	"github.com/Bongbetic/whatsmeow/proto/waCompanionReg"
-	"github.com/Bongbetic/whatsmeow/proto/waConsumerApplication"
-	"github.com/Bongbetic/whatsmeow/proto/waE2E"
-	"github.com/Bongbetic/whatsmeow/proto/waHistorySync"
-	"github.com/Bongbetic/whatsmeow/proto/waMsgApplication"
-	"github.com/Bongbetic/whatsmeow/proto/waMsgTransport"
-	"github.com/Bongbetic/whatsmeow/proto/waWeb"
-	"github.com/Bongbetic/whatsmeow/types"
+	waBinary "go.mau.fi/whatsmeow/binary"
+	armadillo "go.mau.fi/whatsmeow/proto"
+	"go.mau.fi/whatsmeow/proto/instamadilloTransportPayload"
+	"go.mau.fi/whatsmeow/proto/waArmadilloApplication"
+	"go.mau.fi/whatsmeow/proto/waCompanionReg"
+	"go.mau.fi/whatsmeow/proto/waConsumerApplication"
+	"go.mau.fi/whatsmeow/proto/waE2E"
+	"go.mau.fi/whatsmeow/proto/waHistorySync"
+	"go.mau.fi/whatsmeow/proto/waMsgApplication"
+	"go.mau.fi/whatsmeow/proto/waMsgTransport"
+	"go.mau.fi/whatsmeow/proto/waWeb"
+	"go.mau.fi/whatsmeow/types"
 )
 
 // QR is emitted after connecting when there's no session data in the device store.

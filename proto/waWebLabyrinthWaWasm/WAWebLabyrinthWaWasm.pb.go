@@ -3085,7 +3085,7 @@ const file_waWebLabyrinthWaWasm_WAWebLabyrinthWaWasm_proto_rawDesc = "" +
 	" \x01(\v2-.WAWebLabyrinthWaWasm.OpenSealedThreadIdInputH\x00R\x17openSealedThreadIDInput\x12W\n" +
 	"\x11deriveEpochsInput\x18\v \x01(\v2'.WAWebLabyrinthWaWasm.DeriveEpochsInputH\x00R\x11deriveEpochsInput\x12W\n" +
 	"\x11sealThreadIDInput\x18\f \x01(\v2'.WAWebLabyrinthWaWasm.SealThreadIdInputH\x00R\x11sealThreadIDInputB\x0e\n" +
-	"\fcommandInputB0Z.github.com/Bongbetic/whatsmeow/proto/waWebLabyrinthWaWasm"
+	"\fcommandInputB0Z.go.mau.fi/whatsmeow/proto/waWebLabyrinthWaWasm"
 
 var (
 	file_waWebLabyrinthWaWasm_WAWebLabyrinthWaWasm_proto_rawDescOnce sync.Once

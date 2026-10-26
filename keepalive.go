@@ -11,8 +11,8 @@ import (
 	"math/rand/v2"
 	"time"
 
-	"github.com/Bongbetic/whatsmeow/types"
-	"github.com/Bongbetic/whatsmeow/types/events"
+	"go.mau.fi/whatsmeow/types"
+	"go.mau.fi/whatsmeow/types/events"
 )
 
 var (

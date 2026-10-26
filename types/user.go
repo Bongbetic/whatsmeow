@@ -12,7 +12,7 @@ import (
 	"go.mau.fi/util/exslices"
 	"go.mau.fi/util/jsontime"
 
-	"github.com/Bongbetic/whatsmeow/proto/waVnameCert"
+	"go.mau.fi/whatsmeow/proto/waVnameCert"
 )
 
 // VerifiedName contains verified WhatsApp business details.

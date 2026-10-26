@@ -14,15 +14,15 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	waAICommon "github.com/Bongbetic/whatsmeow/proto/waAICommon"
-	waAICommonDeprecated "github.com/Bongbetic/whatsmeow/proto/waAICommonDeprecated"
-	waAdv "github.com/Bongbetic/whatsmeow/proto/waAdv"
-	waAea "github.com/Bongbetic/whatsmeow/proto/waAea"
-	waCommon "github.com/Bongbetic/whatsmeow/proto/waCommon"
-	waCompanionReg "github.com/Bongbetic/whatsmeow/proto/waCompanionReg"
-	waMmsRetry "github.com/Bongbetic/whatsmeow/proto/waMmsRetry"
-	waServerSync "github.com/Bongbetic/whatsmeow/proto/waServerSync"
-	waStatusAttributions "github.com/Bongbetic/whatsmeow/proto/waStatusAttributions"
+	waAICommon "go.mau.fi/whatsmeow/proto/waAICommon"
+	waAICommonDeprecated "go.mau.fi/whatsmeow/proto/waAICommonDeprecated"
+	waAdv "go.mau.fi/whatsmeow/proto/waAdv"
+	waAea "go.mau.fi/whatsmeow/proto/waAea"
+	waCommon "go.mau.fi/whatsmeow/proto/waCommon"
+	waCompanionReg "go.mau.fi/whatsmeow/proto/waCompanionReg"
+	waMmsRetry "go.mau.fi/whatsmeow/proto/waMmsRetry"
+	waServerSync "go.mau.fi/whatsmeow/proto/waServerSync"
+	waStatusAttributions "go.mau.fi/whatsmeow/proto/waStatusAttributions"
 )
 
 const (
@@ -27553,7 +27553,7 @@ const file_waE2E_WAWebProtobufsE2E_proto_rawDesc = "" +
 	"\bKeepType\x12\x15\n" +
 	"\x11UNKNOWN_KEEP_TYPE\x10\x00\x12\x10\n" +
 	"\fKEEP_FOR_ALL\x10\x01\x12\x15\n" +
-	"\x11UNDO_KEEP_FOR_ALL\x10\x02B!Z\x1fgithub.com/Bongbetic/whatsmeow/proto/waE2E"
+	"\x11UNDO_KEEP_FOR_ALL\x10\x02B!Z\x1fgo.mau.fi/whatsmeow/proto/waE2E"
 
 var (
 	file_waE2E_WAWebProtobufsE2E_proto_rawDescOnce sync.Once
