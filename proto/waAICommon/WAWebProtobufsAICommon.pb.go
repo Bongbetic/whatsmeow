@@ -14,7 +14,7 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	waCommon "go.mau.fi/whatsmeow/proto/waCommon"
+	waCommon "github.com/Bongbetic/whatsmeow/proto/waCommon"
 )
 
 const (
@@ -8537,7 +8537,7 @@ const file_waAICommon_WAWebProtobufsAICommon_proto_rawDesc = "" +
 	"\tVIDEO_GEN\x10\x03*H\n" +
 	"\x17SessionTransparencyType\x12\x10\n" +
 	"\fUNKNOWN_TYPE\x10\x00\x12\x1b\n" +
-	"\x17NY_AI_SAFETY_DISCLAIMER\x10\x01B&Z$go.mau.fi/whatsmeow/proto/waAICommon"
+	"\x17NY_AI_SAFETY_DISCLAIMER\x10\x01B&Z$github.com/Bongbetic/whatsmeow/proto/waAICommon"
 
 var (
 	file_waAICommon_WAWebProtobufsAICommon_proto_rawDescOnce sync.Once

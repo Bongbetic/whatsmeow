@@ -363,7 +363,7 @@ const file_waUserPassword_WAWebProtobufsUserPassword_proto_rawDesc = "" +
 	"\x12PBKDF2_HMAC_SHA384\x10\x02\"%\n" +
 	"\bEncoding\x12\b\n" +
 	"\x04UTF8\x10\x00\x12\x0f\n" +
-	"\vUTF8_BROKEN\x10\x01B*Z(go.mau.fi/whatsmeow/proto/waUserPassword"
+	"\vUTF8_BROKEN\x10\x01B*Z(github.com/Bongbetic/whatsmeow/proto/waUserPassword"
 
 var (
 	file_waUserPassword_WAWebProtobufsUserPassword_proto_rawDescOnce sync.Once

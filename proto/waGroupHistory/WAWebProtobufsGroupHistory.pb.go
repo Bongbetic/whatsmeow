@@ -14,9 +14,9 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	waCommon "go.mau.fi/whatsmeow/proto/waCommon"
-	waE2E "go.mau.fi/whatsmeow/proto/waE2E"
-	waWeb "go.mau.fi/whatsmeow/proto/waWeb"
+	waCommon "github.com/Bongbetic/whatsmeow/proto/waCommon"
+	waE2E "github.com/Bongbetic/whatsmeow/proto/waE2E"
+	waWeb "github.com/Bongbetic/whatsmeow/proto/waWeb"
 )
 
 const (
@@ -368,7 +368,7 @@ const file_waGroupHistory_WAWebProtobufsGroupHistory_proto_rawDesc = "" +
 	"\x1funcountedAssociatedMessageLists\x18\x02 \x03(\v2J.WAWebProtobufsGroupHistory.UnCountedAssociatedMessageListWithMessageBytesR\x1funcountedAssociatedMessageLists\x12d\n" +
 	"\x0fcommentMessages\x18\x03 \x03(\v2:.WAWebProtobufsGroupHistory.WebMessageInfoWithMessageBytesR\x0fcommentMessages\x12x\n" +
 	"\x19outOfWindowPinnedMessages\x18\x04 \x03(\v2:.WAWebProtobufsGroupHistory.WebMessageInfoWithMessageBytesR\x19outOfWindowPinnedMessages\x12^\n" +
-	"\fthemeMessage\x18\x05 \x01(\v2:.WAWebProtobufsGroupHistory.WebMessageInfoWithMessageBytesR\fthemeMessageB*Z(go.mau.fi/whatsmeow/proto/waGroupHistory"
+	"\fthemeMessage\x18\x05 \x01(\v2:.WAWebProtobufsGroupHistory.WebMessageInfoWithMessageBytesR\fthemeMessageB*Z(github.com/Bongbetic/whatsmeow/proto/waGroupHistory"
 
 var (
 	file_waGroupHistory_WAWebProtobufsGroupHistory_proto_rawDescOnce sync.Once

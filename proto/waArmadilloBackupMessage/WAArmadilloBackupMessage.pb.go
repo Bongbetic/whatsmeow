@@ -14,7 +14,7 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	waArmadilloBackupCommon "go.mau.fi/whatsmeow/proto/waArmadilloBackupCommon"
+	waArmadilloBackupCommon "github.com/Bongbetic/whatsmeow/proto/waArmadilloBackupCommon"
 )
 
 const (
@@ -157,7 +157,7 @@ const file_waArmadilloBackupMessage_WAArmadilloBackupMessage_proto_rawDesc = "" 
 	"+encryptedTransportLocallyTransformedMessage\x18\x06 \x01(\v2$.WAArmadilloBackupCommon.SubprotocolH\x00R+encryptedTransportLocallyTransformedMessage\x12`\n" +
 	"\x17miTransportAdminMessage\x18\a \x01(\v2$.WAArmadilloBackupCommon.SubprotocolH\x00R\x17miTransportAdminMessage\x12=\n" +
 	"\bmetadata\x18\x01 \x01(\v2!.WAArmadilloBackupCommon.MetadataR\bmetadataB\t\n" +
-	"\apayloadB4Z2go.mau.fi/whatsmeow/proto/waArmadilloBackupMessage"
+	"\apayloadB4Z2github.com/Bongbetic/whatsmeow/proto/waArmadilloBackupMessage"
 
 var (
 	file_waArmadilloBackupMessage_WAArmadilloBackupMessage_proto_rawDescOnce sync.Once

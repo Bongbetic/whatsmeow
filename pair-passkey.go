@@ -18,14 +18,14 @@ import (
 	"golang.org/x/crypto/curve25519"
 	"google.golang.org/protobuf/proto"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/proto/waCompanionReg"
-	"go.mau.fi/whatsmeow/store"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
-	"go.mau.fi/whatsmeow/util/gcmutil"
-	"go.mau.fi/whatsmeow/util/hkdfutil"
-	"go.mau.fi/whatsmeow/util/keys"
+	waBinary "github.com/Bongbetic/whatsmeow/binary"
+	"github.com/Bongbetic/whatsmeow/proto/waCompanionReg"
+	"github.com/Bongbetic/whatsmeow/store"
+	"github.com/Bongbetic/whatsmeow/types"
+	"github.com/Bongbetic/whatsmeow/types/events"
+	"github.com/Bongbetic/whatsmeow/util/gcmutil"
+	"github.com/Bongbetic/whatsmeow/util/hkdfutil"
+	"github.com/Bongbetic/whatsmeow/util/keys"
 )
 
 type passkeyLinkingCache struct {

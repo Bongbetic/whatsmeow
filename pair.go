@@ -18,14 +18,14 @@ import (
 	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/proto/waAdv"
-	"go.mau.fi/whatsmeow/proto/waCompanionReg"
-	"go.mau.fi/whatsmeow/proto/waWa6"
-	"go.mau.fi/whatsmeow/store"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
-	"go.mau.fi/whatsmeow/util/keys"
+	waBinary "github.com/Bongbetic/whatsmeow/binary"
+	"github.com/Bongbetic/whatsmeow/proto/waAdv"
+	"github.com/Bongbetic/whatsmeow/proto/waCompanionReg"
+	"github.com/Bongbetic/whatsmeow/proto/waWa6"
+	"github.com/Bongbetic/whatsmeow/store"
+	"github.com/Bongbetic/whatsmeow/types"
+	"github.com/Bongbetic/whatsmeow/types/events"
+	"github.com/Bongbetic/whatsmeow/util/keys"
 )
 
 var (

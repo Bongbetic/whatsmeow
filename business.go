@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strconv"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/types"
+	waBinary "github.com/Bongbetic/whatsmeow/binary"
+	"github.com/Bongbetic/whatsmeow/types"
 )
 
 // GetOrderDetails fetches the details of a specific order using its ID and token.

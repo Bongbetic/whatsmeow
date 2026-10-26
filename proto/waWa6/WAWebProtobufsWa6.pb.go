@@ -2632,7 +2632,7 @@ const file_waWa6_WAWebProtobufsWa6_proto_rawDesc = "" +
 	"\x0fIOSAppExtension\x12\x13\n" +
 	"\x0fSHARE_EXTENSION\x10\x00\x12\x15\n" +
 	"\x11SERVICE_EXTENSION\x10\x01\x12\x15\n" +
-	"\x11INTENTS_EXTENSION\x10\x02B!Z\x1fgo.mau.fi/whatsmeow/proto/waWa6"
+	"\x11INTENTS_EXTENSION\x10\x02B!Z\x1fgithub.com/Bongbetic/whatsmeow/proto/waWa6"
 
 var (
 	file_waWa6_WAWebProtobufsWa6_proto_rawDescOnce sync.Once
